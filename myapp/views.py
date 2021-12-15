@@ -144,3 +144,10 @@ def logout(request):
          del request.session['u']
 
          return redirect('home')
+
+
+
+# BY AKSHAY PATEL
+# BY AKSHAY PATEL
+# BY AKSHAY PATEL
+# BY AKSHAY PATEL
